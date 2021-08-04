@@ -1,4 +1,4 @@
-A task tracker single page application built in order to learn the fundamentals of Angular
+# A task tracker single page application built in order to learn the fundamentals of Angular
 
 # LearningAngular
 
